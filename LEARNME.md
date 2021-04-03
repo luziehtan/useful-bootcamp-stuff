@@ -11,6 +11,9 @@
 - [zsh Introduction](https://www.lynda.com/Unix-tutorials/Introducing-Zsh/2816007/2928241-4.html)
 - [Terminal Cheatsheet](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
 - [Keyboard CheatSheet](https://www.mediaatelier.com/CheatSheet/)
+- [How to find the "Home" folder and add it to the Finder](https://www.cnet.com/how-to/how-to-find-your-macs-home-folder-and-add-it-to-finder/)
+- [How to use "Spaces"](https://appleinsider.com/articles/18/10/12/how-to-use-spaces-apples-mostly-ignored-macos-mojave-productivity-feature)
+- [Shell Cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
 
 **🖱 Coding Shortcuts and Cheatsheets**
 - [Emmet Abbreviations Syntax](https://docs.emmet.io/abbreviations/syntax/)
@@ -48,6 +51,7 @@
 - [Interviewcake](https://www.interviewcake.com/)
 - [RegExr](https://regexr.com/)
 - [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
+- [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
 
 **Git & GitHub**
 - [Git Branches - Video](https://www.youtube.com/watch?v=oPpnCh7InLY)
@@ -57,6 +61,18 @@
 - [Git for ages 4 and up](https://www.youtube.com/watch?v=1ffBJ4sVUb4)
 - [Rules to Git By](https://www.youtube.com/watch?v=yI0BtEzdGtw&t=1393s)
 - [Gentle introduction to Git and GitHub](https://hackernoon.com/a-gentle-introduction-to-git-and-github-the-eli5-way-43f0aa64f2e4)
+- [Git Basics #1 - Video](https://www.youtube.com/watch?v=8oRjP8yj2Wo)
+- [Git and GitHub in plain English](https://blog.red-badger.com/2016/11/29/gitgithub-in-plain-english)
+- [Shell Befehle](https://www.shellbefehle.de/befehle/)
+- [Command Line Cheatsheet](https://www.git-tower.com/blog/media/pages/posts/command-line-cheat-sheet/1073300074-1617083597/command-line-cheat-sheet-large01.png)
+- [What is Version Control?](https://www.git-tower.com/learn/git/ebook/en/desktop-gui/basics/what-is-version-control/#start)
+- [Pro Git Book](https://git-scm.com/book/en/v2)
+- [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+- [Git and GitHub Cheatsheet](https://training.github.com/downloads/de/github-git-cheat-sheet/)
+- [Git and GitHub Tutorial - Video](https://www.youtube.com/watch?v=9IINVQ5wx0c)
+- [Command Line Heroes - Game](https://www.redhat.com/en/command-line-heroes/bash/index.html)
+- [Basic Git Commands](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+- [Connecting to GitHub with SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 
 **< HTML />**
 - [Using HTML sections and outlines](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines)
